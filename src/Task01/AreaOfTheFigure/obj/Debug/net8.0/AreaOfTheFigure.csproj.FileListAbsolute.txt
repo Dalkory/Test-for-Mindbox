@@ -1,0 +1,12 @@
+/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/bin/Debug/net8.0/AreaOfTheFigure.deps.json
+/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/bin/Debug/net8.0/AreaOfTheFigure.dll
+/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/bin/Debug/net8.0/AreaOfTheFigure.pdb
+/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/obj/Debug/net8.0/AreaOfTheFigure.GeneratedMSBuildEditorConfig.editorconfig
+/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/obj/Debug/net8.0/AreaOfTheFigure.AssemblyInfoInputs.cache
+/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/obj/Debug/net8.0/AreaOfTheFigure.AssemblyInfo.cs
+/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/obj/Debug/net8.0/AreaOfTheFigure.csproj.CoreCompileInputs.cache
+/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/obj/Debug/net8.0/AreaOfTheFigure.sourcelink.json
+/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/obj/Debug/net8.0/AreaOfTheFigure.dll
+/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/obj/Debug/net8.0/refint/AreaOfTheFigure.dll
+/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/obj/Debug/net8.0/AreaOfTheFigure.pdb
+/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/obj/Debug/net8.0/ref/AreaOfTheFigure.dll
