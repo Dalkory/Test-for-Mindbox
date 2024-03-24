@@ -3,10 +3,10 @@ namespace AreaOfTheFigure.Tests;
 public class CircleTests
 {
     [Fact]
-    public void Area_ReturnsCorrectValue()
+    public void CalculateArea_ReturnsCorrectValue()
     {
         var circle = new Circle(5);
-        Assert.Equal(Math.PI * 25, circle.Area(), 3);
+        Assert.Equal(Math.PI * 25, circle.CalculateArea(), 3);
     }
 
     [Fact]
@@ -20,10 +20,10 @@ public class CircleTests
 public class TriangleTests
 {
     [Fact]
-    public void Area_ReturnsCorrectValue()
+    public void CalculateArea_ReturnsCorrectValue()
     {
         var triangle = new Triangle(3, 4, 5);
-        Assert.Equal(6, triangle.Area(), 3);
+        Assert.Equal(6, triangle.CalculateArea(), 3);
     }
 
     [Fact]
