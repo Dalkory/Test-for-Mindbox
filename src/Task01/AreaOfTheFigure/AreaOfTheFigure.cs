@@ -1,23 +1,23 @@
-﻿namespace AreaOfTheFigure;
+namespace AreaOfTheFigure;
 
 public abstract class Shape
 {
-    public abstract double Area();
+    public abstract double CalculateArea();
     public abstract bool Rectangular();
 }
 
 public class Circle : Shape
 {
-    private double Radius { get; }
+    private double _radius;
 
     public Circle(double radius)
     {
-        Radius = radius;
+        _radius = radius;
     }
 
-    public override double Area()
+    public override double CalculateArea()
     {
-        return Math.PI * Math.Pow(Radius, 2);
+        return Math.PI * Math.Pow(_radius, 2);
     }
 
     public override bool Rectangular()
@@ -28,29 +28,29 @@ public class Circle : Shape
 
 public class Triangle : Shape
 {
-    private double SideA { get; }
-    private double SideB { get; }
-    private double SideC { get; }
+    private double _sideA;
+    private double _sideB;
+    private double _sideC;
 
     public Triangle(double sideA, double sideB, double sideC)
     {
-        SideA = sideA;
-        SideB = sideB;
-        SideC = sideC;
+        _sideA = sideA;
+        _sideB = sideB;
+        _sideC = sideC;
     }
 
-    public override double Area()
+    public override double CalculateArea()
     {
-        double s = (SideA + SideB + SideC) / 2;
-        return Math.Sqrt(s * (s - SideA) * (s - SideB) * (s - SideC));
+        double s = (_sideA + _sideB + _sideC) / 2;
+        return Math.Sqrt(s * (s - _sideA) * (s - _sideB) * (s - _sideC));
     }
 
     public override bool Rectangular()
     {
-        double A = SideA * SideA;
-        double B = SideB * SideB;
-        double C = SideC * SideC;
+        double a = _sideA * _sideA;
+        double b = _sideB * _sideB;
+        double c = _sideC * _sideC;
 
-        return Math.Abs(A + B - C) < 0.001 || Math.Abs(A + C - B) < 0.001 || Math.Abs(B + C - A) < 0.001;
+        return Math.Abs(a + b - c) < 0.001 || Math.Abs(a + c - b) < 0.001 || Math.Abs(b + c - a) < 0.001;
     }
 }
