@@ -5524,32 +5524,39 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "C:\\Users\\dtaus\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure.Tests/AreaOfTheFigure.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\dtaus\\Test-for-Mindbox\\src\\Task01\\AreaOfTheFigure.Tests\\AreaOfTheFigure.Tests.csproj",
       "projectName": "AreaOfTheFigure.Tests",
-      "projectPath": "/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure.Tests/AreaOfTheFigure.Tests.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure.Tests/obj/",
+      "projectPath": "C:\\Users\\dtaus\\Test-for-Mindbox\\src\\Task01\\AreaOfTheFigure.Tests\\AreaOfTheFigure.Tests.csproj",
+      "packagesPath": "C:\\Users\\dtaus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dtaus\\Test-for-Mindbox\\src\\Task01\\AreaOfTheFigure.Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\dtaus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/AreaOfTheFigure.csproj": {
-              "projectPath": "/home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/AreaOfTheFigure.csproj"
+            "C:\\Users\\dtaus\\Test-for-Mindbox\\src\\Task01\\AreaOfTheFigure\\AreaOfTheFigure.csproj": {
+              "projectPath": "C:\\Users\\dtaus\\Test-for-Mindbox\\src\\Task01\\AreaOfTheFigure\\AreaOfTheFigure.csproj"
             }
           }
         }
@@ -5602,7 +5609,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/root/.dotnet/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -10,3 +10,15 @@
 /home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/obj/Debug/net8.0/refint/AreaOfTheFigure.dll
 /home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/obj/Debug/net8.0/AreaOfTheFigure.pdb
 /home/s21/Test-for-Mindbox/src/Task01/AreaOfTheFigure/obj/Debug/net8.0/ref/AreaOfTheFigure.dll
+C:\Users\dtaus\Test-for-Mindbox\src\Task01\AreaOfTheFigure\bin\Debug\net8.0\AreaOfTheFigure.deps.json
+C:\Users\dtaus\Test-for-Mindbox\src\Task01\AreaOfTheFigure\bin\Debug\net8.0\AreaOfTheFigure.dll
+C:\Users\dtaus\Test-for-Mindbox\src\Task01\AreaOfTheFigure\bin\Debug\net8.0\AreaOfTheFigure.pdb
+C:\Users\dtaus\Test-for-Mindbox\src\Task01\AreaOfTheFigure\obj\Debug\net8.0\AreaOfTheFigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtaus\Test-for-Mindbox\src\Task01\AreaOfTheFigure\obj\Debug\net8.0\AreaOfTheFigure.AssemblyInfoInputs.cache
+C:\Users\dtaus\Test-for-Mindbox\src\Task01\AreaOfTheFigure\obj\Debug\net8.0\AreaOfTheFigure.AssemblyInfo.cs
+C:\Users\dtaus\Test-for-Mindbox\src\Task01\AreaOfTheFigure\obj\Debug\net8.0\AreaOfTheFigure.csproj.CoreCompileInputs.cache
+C:\Users\dtaus\Test-for-Mindbox\src\Task01\AreaOfTheFigure\obj\Debug\net8.0\AreaOfTheFigure.sourcelink.json
+C:\Users\dtaus\Test-for-Mindbox\src\Task01\AreaOfTheFigure\obj\Debug\net8.0\AreaOfTheFigure.dll
+C:\Users\dtaus\Test-for-Mindbox\src\Task01\AreaOfTheFigure\obj\Debug\net8.0\refint\AreaOfTheFigure.dll
+C:\Users\dtaus\Test-for-Mindbox\src\Task01\AreaOfTheFigure\obj\Debug\net8.0\AreaOfTheFigure.pdb
+C:\Users\dtaus\Test-for-Mindbox\src\Task01\AreaOfTheFigure\obj\Debug\net8.0\ref\AreaOfTheFigure.dll

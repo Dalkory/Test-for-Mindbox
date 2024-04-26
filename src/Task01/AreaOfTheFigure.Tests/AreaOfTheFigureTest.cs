@@ -23,7 +23,7 @@ public class TriangleTests
     public void CalculateArea_ReturnsCorrectValue()
     {
         var triangle = new Triangle(3, 4, 5);
-        Assert.Equal(6, triangle.CalculateArea(), 3);
+        Assert.Equal(6, triangle.CalculateArea());
     }
 
     [Fact]
